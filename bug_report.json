@@ -17,8 +17,6 @@
     "5": "Pay attention to an error page ORA1090 Exception: \"Insert values Error..\"",
     "6": "See the attached logs for more information (Attach more logs related to the bug..IF any)",
     "7": "Also see the attached screenshot of the error page."
-
   },
-
   "Attached files": "Screenshot.png"
 }
