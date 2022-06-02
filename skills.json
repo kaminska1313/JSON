@@ -1,18 +1,18 @@
 {
     "skills-to-be-acquired": [
-    "Basics of testing",
-    "Client-server architecture",
-    "HTTP methods",
-    "JSON and XML structure",
-    "API testing via Postman",
-    "Mobile testing",
-    "iOS and Android features",
-    "Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android",
-    "ADB",
-    "Terminal Linux",
-    "Bash scripting basics",
-    "SQL basics",
-    "Load Testing via Jmeter",
-    "Scrum Development Methodology"
+        "Basics of testing",
+        "Client-server architecture",
+        "HTTP methods",
+        "JSON and XML structure",
+        "API testing via Postman",
+        "Mobile testing",
+        "iOS and Android features",
+        "Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android",
+        "ADB",
+        "Terminal Linux",
+        "Bash scripting basics",
+        "SQL basics",
+        "Load Testing via Jmeter",
+        "Scrum Development Methodology"
     ]
 }
